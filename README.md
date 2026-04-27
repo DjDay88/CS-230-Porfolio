@@ -10,8 +10,9 @@ I created a software design document that includes requirements, design constrai
 
 ## Artifact
 
-CS-230-Final.pdf
+[CS-230-Final.pdf](./CS-230-Final.pdf)
 
 ## Improvements
 
 If I could improve this project, I would add more detail to the system architecture and better explain how distributed systems handle communication and performance.
+
